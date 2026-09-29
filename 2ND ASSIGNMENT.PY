@@ -1,4 +1,4 @@
-```python
+python
 from datetime import datetime
 
 def report_header_footer(function):
@@ -71,4 +71,4 @@ my_report.generate()
 print("Number of Sections:", len(my_report))
 
 Report.total_reports()
-```
+
